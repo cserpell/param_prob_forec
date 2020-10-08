@@ -1,3 +1,5 @@
+This is the code related to the paper "Multi-step probabilistic forecasting model using deep learning parametrized distributions".
+
 # Installation
 
 Create a `virtualenv` in order to not clash with local python libraries, and
